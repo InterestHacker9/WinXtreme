@@ -52,4 +52,4 @@ If you'd like to contribute to the WinXtreme project, please fork the GitHub rep
 
 ## Contact 📧
 
-For any questions or feedback, feel free to reach out to [email@domain.com](mailto:email@domain.com). 💬
+For any questions or feedback, feel free to reach out to [soylukartal@proton.me](mailto:soylukartal@proton.me). 💬
